@@ -3,8 +3,7 @@ Retail Data Analysis based on real transactional data from the UCI Machine Learn
 
 The virtual environment I used for this project is (env-final-project)
 ### packages in environment at C:\Users\harry\anaconda3\envs\env-final-project:
-
-Name                    Version                   Build  Channel
+### format (Name  Version  Build  Channel)
 anyio                     4.6.2            py39haa95532_0
 argon2-cffi               21.3.0             pyhd3eb1b0_0
 argon2-cffi-bindings      21.2.0           py39h2bbff1b_0
