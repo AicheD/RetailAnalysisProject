@@ -1,7 +1,7 @@
 # RetailAnalysisProject
 Retail Data Analysis based on real transactional data from the UCI Machine Learning Repository's Online Retail II dataset from a UK-based online retail
 
-This project was developed by Harry Zarcadoolas and Gabriel Brito as the final project for CAP4770. The virtual environment I used for this project is (env-final-project)
+This project was developed by Harry Zarcadoolas and Gabriel Brito as the final project for UF course CAP4770. The virtual environment I used for this project is (env-final-project)
 ## Packages in environment at C:\Users\harry\anaconda3\envs\env-final-project:
 ### Format: (Name  Version  Build  Channel)
 anyio                     4.6.2            py39haa95532_0
